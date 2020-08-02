@@ -1,1 +1,2 @@
-# Book-List
+# Just a simple book list using localStorage
+
